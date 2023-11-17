@@ -135,7 +135,7 @@
 }
 
 .dashboard{
-  position: fixed;
+  position: absolute;
   max-width: calc(500px - 14px * 2);
   width: calc(100% - 28px);
   text-align: center;
